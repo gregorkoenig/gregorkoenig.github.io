@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-  Hi, I am a professional, self-motivated, and open-minded person with experience as `engineering manager`, `software engineer`, international `project manager`, and `lecturer`. I am passionate about technology and developing amazing solutions together with like-minded people. It is highly rewarding to support people in their professional journey and help them grown, thrive, and prosper.
-
+  Hi, I am a professional, self-motivated, and open-minded person with experience as `engineering manager`, `software engineer`, international `project manager`, and `lecturer`. I am passionate about technology and developing amazing solutions together with like-minded people. 
+  
   My technological focus lies on the research and development of secure communication and connectivity, (bio-)signal-processing, safety-critical embedded real-time systems, and their application in different fields. 
 
   Currently I work as an `engineering lead` at `Barracuda Networks` in Vienna, Austria.
