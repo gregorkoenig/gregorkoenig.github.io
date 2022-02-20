@@ -3,9 +3,9 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: gregorkoenig.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: office@gkoenig.com
 
 
 highlighter: rouge
@@ -17,18 +17,18 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+#facebook: "#"
+twitter: "gkoenig"
+linkedin: "gregorkoenig"
+#github: "#"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+#analytics:
 
 #optimization -> compress.html
 compress_html:
@@ -52,7 +52,7 @@ sass:
   style: compressed
 
 include:
-  - _pages
+ # - _pages
 
 exclude:
   - README.md
