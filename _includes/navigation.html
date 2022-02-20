@@ -2,30 +2,32 @@
         <a href="{{site.baseurl}}/">Home</a>
         <a href="{{site.baseurl}}/professional/">Professional</a>
         <a href="{{site.baseurl}}/academic/">Academic</a>
+
+
+        {%- if site.email -%}
+        <a title="{{ _locale_string_email }}"
+        class="social-button email" itemprop="email"
+        href="mailto:{{ site.email | encode_email }}" target="_blank">
+        <i class="far fa-envelope"></i>
+        </a>
+        {%- endif -%}
+
+        {%- if site.linkedin -%}
+        <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
+        class="social-button linkedin"
+        href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
+        target="_blank">
+        <i class="fab fa-linkedin"></i>
+        </a>
+        {%- endif -%}
+
+        {%- if site.twitter -%}
+        <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
+        class="social-button twitter"
+        href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
+        target="_blank">
+        <i class="fab fa-twitter"></i>
+        </a>
+        {%- endif -%}
+
 </div>
-
-{%- if site.email -%}
-<a title="{{ _locale_string_email }}"
-class="social-button email" itemprop="email"
-href="mailto:{{ site.email | encode_email }}" target="_blank">
-<i class="far fa-envelope"></i>
-</a>
-{%- endif -%}
-
-{%- if site.linkedin -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
-class="social-button linkedin"
-href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-linkedin"></i>
-</a>
-{%- endif -%}
-
-{%- if site.twitter -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
-class="social-button twitter"
-href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-twitter"></i>
-</a>
-{%- endif -%}
