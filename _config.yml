@@ -52,7 +52,7 @@ sass:
   style: compressed
 
 include:
- # - _pages
+  - _pages
 
 exclude:
   - README.md
