@@ -13,11 +13,11 @@ published: true
 
   Currently I work as an `engineering lead` at `Barracuda Networks` in Vienna, Austria.
 
-  [Here you can find more about my professional career.](https://gregorkoenig.hithub.io/professional)  
+  [Here you can find more about my professional career.](https://gregorkoenig.github.io/professional)  
 
   I love `science` and I hold a `PhD` in Biomedical Engineering from the `Medical Univerity of Vienna` and a `MSc` in Computer Science from the Univerity of Salzburg.
 
-  [Here you can find more about my academic background.](https://gregorkoenig.hithub.io/academic)  
+  [Here you can find more about my academic background.](https://gregorkoenig.github.io/academic)  
 
   I am a founding member of the [Feigenhain Initiative](https://feigenhain.org){:target="_blank"}, a non-governmental non-profit organisation registered in France, with activities in Brazil, France and Austria. Our campaigns focus on humanitarian aid and cooperation, protection of the natural environment.
 

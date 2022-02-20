@@ -11,7 +11,7 @@
 
         <h1 class="post-headline">{{site.title}}</h1>
         <h3 class="post-description">{{site.description}}</h3>
-
+        &nbsp;<br>
         {% include navigation.html %}
 
         {% seo %}
@@ -33,15 +33,12 @@
         </main>
 
         <footer>
-          <p class="copy">
+            {% include social-footer.html %}
+        
+            <p class="copy">
             <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
-                    | Powered by Jekyll and
-                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-                    Last updated on {{ site.time | date_to_long_string }}
             </small>
           </p>
-
-        {% include social-footer.html %}
 
         </footer>
 
