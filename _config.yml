@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Gregor Koenig
+description: Technology used the right way for the right cause
 
-baseurl: gregorkoenig.github.io #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: office@gkoenig.com
 
