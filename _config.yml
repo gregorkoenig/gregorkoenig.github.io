@@ -18,7 +18,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #facebook: "#"
-twitter: "gkoenig"
+#twitter: "gkoenig"
 linkedin: "gregorkoenig"
 #github: "#"
 #researchgate: "#"
