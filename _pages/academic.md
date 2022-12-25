@@ -21,4 +21,15 @@ An exploratory study was conducted under real-world conditions, including 26 hea
 
 The actigraphy data was used to estimate the individual circadian rhythm. For the analysis of circadian trends we scaled the data relative to the individual circadian phase, for the homeostatic analysis relative to the time of wake up.
 
-Using statistical means such as correlation coefficients and paired t-tests we analyzed the variables’ homeostatic and circadian trends, compared them to the two-process model, and tested the variables’ ability to distinguish between the data under sleep deprivation and data after normal sleep. Based on the homeostatic trends of a combination of varia- bles a model was build that is able classify EEG data according to the two conditions. The correctness was assessed by a k-fold cross-validation and the significance was tested based on a 
+Using statistical means such as correlation coefficients and paired t-tests we analyzed the variables’ homeostatic and circadian trends, compared them to the two-process model, and tested the variables’ ability to distinguish between the data under sleep deprivation and data after normal sleep. Based on the homeostatic trends of a combination of variables a model was build that is able classify EEG data according to the two conditions. The correctness was assessed by a k-fold cross-validation and the significance was tested based on a X2 test. 
+
+In the analysis several variables were discovered that show behavior significantly correlated to the two-process model. Especially the daytime-trends of EEG-artifacts provide an interesting insight, for instance the artifacts caused by eye movements correlate negatively with the homeostatic timescale. The standard deviation of the theta band is an examples for a variable with a strong circadian behavior.
+
+Several variables are able to separate sleep-deprived data from data after normal sleep. Goodexamples for separating variables are the relative delta-band power or the (theta+alpha)/beta ratio. These variables can serve as descriptive and predictive biomarkers for diurnal vigilance and sleepiness in the EEG during daytime.
+
+The homeostatic trends of a combination of variables were used as a classification model and showed significantly correct classification rates of 80 %. The best performing variables were based on EEG activity in the theta-, very high beta-, and delta-frequency-bands as well as variables derived from eye and muscle artifacts.   
+
+We were able to provide significant empirical evidence for the circadian and homeostatic behavior of EEG-based variables. Our exploratory work is an important step towards objectively describing and predicting daytime vigilance and sleepiness. The positive results contribute to a better understanding of the representation of attentive processes in the EEG and encourage us to investigate the topic on a larger scale.
+
+[Buy me thesis on Amazon.](https://a.co/d/0FDHRBd)
+
