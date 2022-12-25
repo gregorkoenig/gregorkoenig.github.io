@@ -4,6 +4,9 @@ layout: default
 permalink: /academic/
 published: true
 ---
+- [PhD](#biomedical-engineering)
+- [MSc](#distributed-and-ambedded-real-time-networking)
+- BSc
 
 # Biomedical Engineering
 `Phd Thesis` at the [Medical University of Vienna](https://www.meduniwien.ac.at) and the [Austrian Indtitute of Technology](www.ait.ac.at).
@@ -31,5 +34,10 @@ The homeostatic trends of a combination of variables were used as a classificati
 
 We were able to provide significant empirical evidence for the circadian and homeostatic behavior of EEG-based variables. Our exploratory work is an important step towards objectively describing and predicting daytime vigilance and sleepiness. The positive results contribute to a better understanding of the representation of attentive processes in the EEG and encourage us to investigate the topic on a larger scale.
 
-[Buy me thesis on Amazon.](https://a.co/d/0FDHRBd)
+[Buy me thesis on Amazon.](https://a.co/d/0FDHRBd)`
+
+# Distributed and Embedded Real-Time Networking
+`Master Thesis` at the [University of Salzburg](https://plus.ac.at)
+
+###
 
