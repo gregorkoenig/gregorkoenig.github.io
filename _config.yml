@@ -23,6 +23,7 @@ linkedin: "gregorkoenig"
 #github: "#"
 #researchgate: "#"
 #orcid: "#"
+mastodon: "gkoenig"
 
 highlighter: rouge
 markdown: kramdown
