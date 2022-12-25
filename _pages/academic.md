@@ -6,7 +6,7 @@ published: true
 ---
 
 # Biomedical Engineering
-Phd Thesis at the [Medical University of Vienna](https://www.meduniwien.ac.at) and the [Austrian Indtitute of Technology](www.ait.ac.at).
+`Phd Thesis` at the [Medical University of Vienna](https://www.meduniwien.ac.at) and the [Austrian Indtitute of Technology](www.ait.ac.at).
 
 ### An Electroencephalography-based Model of Daytime Vigilance Trends
 The objective quantification of vigilance and sleepiness is more than ever an important focus in research. Impaired daytime vigilance due to insufficient sleep and low sleep qua- lity has become an inevitable fact in industrialized countries. The reasons are manifold, the consequences may be fatal. Studies show that the the loss of human life but also the economic costs are substantial.
