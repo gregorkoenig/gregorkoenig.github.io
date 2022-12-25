@@ -5,18 +5,16 @@ permalink: /academic/
 published: true
 ---
 - [PhD](#biomedical-engineering)
-- [MSc](#distributed-and-ambedded-real-time-networking)
+- [MSc](#distributed-and-embedded-real-time-networking)
 - BSc
 
 # Biomedical Engineering
-`Phd Thesis` at the [Medical University of Vienna](https://www.meduniwien.ac.at) and the [Austrian Indtitute of Technology](www.ait.ac.at).
+`Phd Thesis` at the [Medical University of Vienna](https://www.meduniwien.ac.at) and the [Austrian Institute of Technology](www.ait.ac.at).
 
 ### An Electroencephalography-based Model of Daytime Vigilance Trends
-The objective quantification of vigilance and sleepiness is more than ever an important focus in research. Impaired daytime vigilance due to insufficient sleep and low sleep qua- lity has become an inevitable fact in industrialized countries. The reasons are manifold, the consequences may be fatal. Studies show that the the loss of human life but also the economic costs are substantial.
-
 The aim of this thesis is to objectively describe long-term daytime vigilance and sleepiness based on Electroencephalogram (EEG)-derived variables.
 
-The homeostatic and circadian influences on daytime vigilance and sleepiness are well known. Borbély describes them in the two process model of sleep regulation. This thesis provides empirical evidence for these processes based on objective EEG-based variables. Such variables can be used in a model describing and predicting diurnal vigilance and sleepiness and to separate EEG data from subjects after sleep-deprivation from data after normal sleep. It is further shown that the vigilance trends of several variables can be used to classify daytime EEG data under sleep deprivation and after normal sleep.
+The homeostatic and circadian influences on daytime vigilance and sleepiness are well known. The thesis provides empirical evidence for these processes based on objective EEG-based variables. Such variables can be used in a model describing and predicting diurnal vigilance and sleepiness and to separate EEG data from subjects after sleep-deprivation from data after normal sleep. It is further shown that the vigilance trends of several variables can be used to classify daytime EEG data under sleep deprivation and after normal sleep.
 
 An exploratory study was conducted under real-world conditions, including 26 healthy female and male subjects. For two 24 hour periods we recorded EEG channels using a mobile system, along with hourly subjective sleepiness ratings and reaction times. The sessions consisted of a night and a day under a sleep-deprived and a normal-sleep condition. The two sessions were embedded in 14 days of recording actigraphy and sleep quality ratings.
 
@@ -30,11 +28,11 @@ In the analysis several variables were discovered that show behavior significant
 
 Several variables are able to separate sleep-deprived data from data after normal sleep. Goodexamples for separating variables are the relative delta-band power or the (theta+alpha)/beta ratio. These variables can serve as descriptive and predictive biomarkers for diurnal vigilance and sleepiness in the EEG during daytime.
 
-The homeostatic trends of a combination of variables were used as a classification model and showed significantly correct classification rates of 80 %. The best performing variables were based on EEG activity in the theta-, very high beta-, and delta-frequency-bands as well as variables derived from eye and muscle artifacts.   
+The homeostatic trends of a combination of variables were used as a classification model and showed significantly correct classification rates of 80%. The best performing variables were based on EEG activity in the theta-, very high beta-, and delta-frequency-bands as well as variables derived from eye and muscle artifacts.   
 
 We were able to provide significant empirical evidence for the circadian and homeostatic behavior of EEG-based variables. Our exploratory work is an important step towards objectively describing and predicting daytime vigilance and sleepiness. The positive results contribute to a better understanding of the representation of attentive processes in the EEG and encourage us to investigate the topic on a larger scale.
 
-[Buy me thesis on Amazon.](https://a.co/d/0FDHRBd)`
+[Buy me thesis on Amazon.](https://a.co/d/0FDHRBd)
 
 # Distributed and Embedded Real-Time Networking
 `Master Thesis` at the [University of Salzburg](https://plus.ac.at)
