@@ -29,4 +29,5 @@ published: true
   - [Running](https://www.strava.com/athletes/mrgregor){:target="_blank"}
   - [Cycling](https://www.zwift.com/eu/athlete/61ae74ef-85af-47df-ae48-9f0ef028e34b){:target="_blank"}
   - [Calisthenics](https://stevenlow.org/overcoming-gravity/){:target="_blank"}
+  - Argentinian Tango
   - [Ilex paraguariensis](https://en.wikipedia.org/wiki/Yerba_mate){:target="_blank"}
