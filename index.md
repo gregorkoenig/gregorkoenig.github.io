@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: gregor2024.jpeg
+  image: gregor2024.png
 published: true
 ---
 
