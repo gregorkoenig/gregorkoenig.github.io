@@ -3,21 +3,24 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: gregor2024.png
+  image: gregor2024.jpeg
 published: true
 ---
 
   Hi, I am a professional, self-motivated, and open-minded person with experience as `engineering manager`, `software engineer`, international `project manager`, and `lecturer`. I am passionate about technology and developing amazing solutions together with like-minded people. 
 
-  My technological focus lies on the research and development of secure communication and connectivity, (bio-)signal-processing, safety-critical embedded real-time systems, and their application in different fields. 
 
-  
-  Currently I work as an `engineering lead` at `Barracuda Networks` in Vienna, Austria.
+  My core competencies as engineering and people manager lie in creating `trustful spaces` to `enable people` to develop their professional careers, strive in their roles, and live up to their full potential. This establishes a basis for to `successfully deliver outcomes` with teams and internal as well as external peers.
+
+
+  Currently I work as an `engineering manager` at `Barracuda Networks` in Vienna, Austria, where I lead a team of talented engineers who develop the CG Firewall Control Center, a central component of the market-leading CG Firewall product for globally distributed large-scale enterprise networks.
+
 
   [Here you can find more about my professional career.](https://gregorkoenig.github.io/professional)  
 
   
   I love `science` and I hold a `PhD` in Biomedical Engineering from the `Medical Univerity of Vienna` and a `MSc` in Computer Science from the Univerity of Salzburg.
+
 
   [Here you can find more about my academic background.](https://gregorkoenig.github.io/academic)  
 
@@ -26,8 +29,8 @@ published: true
 
   
   Besides of my passion for technology my other interests and hobbies include
-  - [Running](https://www.strava.com/athletes/mrgregor){:target="_blank"}
-  - [Cycling](https://www.zwift.com/eu/athlete/61ae74ef-85af-47df-ae48-9f0ef028e34b){:target="_blank"}
+  - Running
+  - Cycling
   - [Calisthenics](https://stevenlow.org/overcoming-gravity/){:target="_blank"}
   - Argentinian Tango
   - [Ilex paraguariensis](https://en.wikipedia.org/wiki/Yerba_mate){:target="_blank"}
