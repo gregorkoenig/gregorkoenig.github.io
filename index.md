@@ -7,30 +7,25 @@ profile:
 published: true
 ---
 
-  Hi, I am a professional, self-motivated, and open-minded person with experience as `engineering manager`, `software engineer`, international `project manager`, and `lecturer`. I am passionate about technology and developing amazing solutions together with like-minded people. 
+Hi, I am Gregor — `engineering manager` and `lecturer` at the intersection of technology and people.
 
+My approach to leadership is rooted in coaching and authentic self-expression. I believe that `psychological safety` — the confidence to speak up, take risks, and be yourself — is the foundation of high-performing teams. Creating that kind of environment is what I find most meaningful about managing people.
 
-  My core competencies as engineering and people manager lie in creating `trustful spaces` to `enable people` to develop their professional careers, thrive in their roles, and live up to their full potential. This establishes a basis to `successfully deliver outcomes` with teams and internal as well as external peers.
+At `Barracuda Networks` in Vienna I lead three software engineering teams building network security products, including the `SecureEdge SASE` service and the `CG Firewall` platform. I am also involved in our AI developer advocacy, exploring the implications of generative AI in cybersecurity.
 
+[Here you can find more about my professional career.](https://gregorkoenig.github.io/professional)
 
-  Currently I work as an `engineering manager` at `Barracuda Networks` in Vienna, Austria, where I lead a team of talented engineers who develop the CG Firewall Control Center, a central component of the market-leading CG Firewall product for globally distributed large-scale enterprise networks.
+I hold a `PhD` in Biomedical Engineering from the `Medical University of Vienna` and an `MSc` in Computer Science from the `University of Salzburg`. I teach `Security Infrastructures with Firewall Technology` at `Fachhochschule Technikum Wien`.
 
+[Here you can find more about my academic background.](https://gregorkoenig.github.io/academic)
 
-  [Here you can find more about my professional career.](https://gregorkoenig.github.io/professional)  
+I am a founding member of the [Feigenhain Initiative](https://feigenhain.org){:target="_blank"}, a non-profit registered in France with activities in Brazil and Europe, focused on humanitarian aid and environmental protection.
 
-  
-  I love `science` and I hold a `PhD` in Biomedical Engineering from the `Medical University of Vienna` and a `MSc` in Computer Science from the University of Salzburg.
+I speak German, English, French, and Portuguese.
 
-
-  [Here you can find more about my academic background.](https://gregorkoenig.github.io/academic)  
-
-  
-  I am a founding member of the [Feigenhain Initiative](https://feigenhain.org){:target="_blank"}, a non-governmental non-profit organisation registered in France, with activities in Brazil, France and Austria. Our campaigns focus on humanitarian aid and cooperation, protection of the natural environment.
-
-  
-  Besides my passion for technology my other interests and hobbies include
-  - Running
-  - Cycling
-  - [Calisthenics](https://stevenlow.org/overcoming-gravity/){:target="_blank"}
-  - Argentine Tango
-  - [Ilex paraguariensis](https://en.wikipedia.org/wiki/Yerba_mate){:target="_blank"}
+My other interests:
+- Sports, weightlifting, fitness & mobility
+- Quantified self nerd
+- Hiking and nature
+- Queer Argentine Tango
+- Yerba Mate
