@@ -7,7 +7,7 @@ published: true
 
 # Experience
 
-## Barracuda Networks — Vienna, Austria *(13 years)*
+## Barracuda Networks — Vienna, Austria
 
 **Engineering Manager** *(Oct 2024 – Present)*
 
